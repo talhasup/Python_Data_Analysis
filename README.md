@@ -1,3 +1,4 @@
+![logo](https://github.com/talhasup/talhasup/blob/main/GithubBackgrund.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 <image align="right" alt="coding"width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1000_1488/0/1636176827432?e=1721865600&v=beta&t=dJ__cxJNhsZNbfEYDxLVhF84rHpj3dvzHqkqMGBV0Uk">
